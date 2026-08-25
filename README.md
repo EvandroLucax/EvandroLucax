@@ -42,28 +42,44 @@ interests = {
 }
 
 <br clear="right"/>
-> TECH_STACK
-<div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
-FRAMEWORKS & WEB
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,react&theme=dark" />
-DATABASES
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" />
-AI / DATA
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-TOOLS & ENVIRONMENT
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" /> </div>
 > TOOLBOX
+
 <div align="center">
-SYSTEM	TOOLS
-🧠 AI / ML	Python • Machine Learning • Computer Vision • OpenCV
-🌐 WEB	HTML • CSS • JavaScript • Flask • Django
-🗄️ DATABASE	MySQL • PostgreSQL • SQLite • MongoDB
-⚙️ DEVELOPMENT	Git • GitHub • VS Code • Linux
-🧪 RESEARCH	Data Analysis • Model Experiments • Image Recognition
-🏗️ ENGINEERING	Software Engineering • Version Control • Project Organization
+
+<table>
+<tr>
+<td align="center"><strong>🧠 AI / ML</strong></td>
+<td>Python • Machine Learning • Computer Vision • OpenCV</td>
+</tr>
+
+<tr>
+<td align="center"><strong>🌐 WEB</strong></td>
+<td>HTML • CSS • JavaScript • Flask • Django</td>
+</tr>
+
+<tr>
+<td align="center"><strong>🗄️ DATABASE</strong></td>
+<td>MySQL • PostgreSQL • SQLite • MongoDB</td>
+</tr>
+
+<tr>
+<td align="center"><strong>⚙️ DEVELOPMENT</strong></td>
+<td>Git • GitHub • VS Code • Linux</td>
+</tr>
+
+<tr>
+<td align="center"><strong>🧪 RESEARCH</strong></td>
+<td>Data Analysis • Model Experiments • Image Recognition</td>
+</tr>
+
+<tr>
+<td align="center"><strong>🏗️ ENGINEERING</strong></td>
+<td>Software Engineering • Version Control • Project Organization</td>
+</tr>
+</table>
+
 </div>
+
 > PROJECTS
 <div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvandroLucax&repo=Projetos_Python&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> 
 
