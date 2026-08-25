@@ -27,15 +27,12 @@
 > ABOUT_ME
 <img align="right" width="340" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-Olá! Sou estudante e desenvolvedor brasileiro apaixonado por tecnologia, programação e inteligência artificial.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFMA e formado como Técnico em Informática pelo IFMA.
+Tenho interesse principalmente em desenvolvimento de software, Python, desenvolvimento web, bancos de dados e Inteligência Artificial.
 
-Minha formação começou no curso Técnico em Informática pelo IFMA, onde construí uma base sólida em tecnologia e desenvolvimento.
+Já desenvolvi projetos web integrados a bancos de dados e ambientes locais, além de possuir conhecimentos básicos em Engenharia de Software e desenvolvimento de aplicações. Também atuei como pesquisador voluntário na Fábrica de Inovação do IFMA Campus Grajaú, onde tive contato com estudos teóricos e práticos de Machine Learning aplicado ao reconhecimento de imagens.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas no IFMA, aprofundando meus conhecimentos em desenvolvimento de software, arquitetura, bancos de dados e engenharia de software.
-
-Tenho uma boa experiência prática com Python, além de já ter desenvolvido projetos web integrados a bancos de dados e ambientes de hospedagem local.
-
-Também possuo conhecimentos em Engenharia de Software e experiência acadêmica como pesquisador voluntário na Fábrica de Inovação do IFMA Campus Grajaú, onde trabalhei com estudos teóricos e práticos relacionados a Machine Learning e reconhecimento de imagens.
+Atualmente, busco continuar aprimorando meus conhecimentos e desenvolver projetos que possam contribuir para minha experiência profissional.
 
 CURRENT INTERESTS
 interests = {
@@ -75,7 +72,6 @@ SYSTEM	TOOLS
 > PROJECTS
 <div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvandroLucax&repo=Projetos_Python&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> 
 
-SYSTEM NOTE: Substitua PROJETO_01, PROJETO_02, etc. pelos nomes reais dos seus repositórios.
 
 > CURRENT_OBJECTIVES
 ┌──[ USER@DEV-SYSTEM ]──[ ~/current_missions ]
@@ -101,8 +97,6 @@ SYSTEM NOTE: Substitua PROJETO_01, PROJETO_02, etc. pelos nomes reais dos seus r
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EvandroLucax&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="95%"/> </div>
 > CONTRIBUTION_MATRIX
 <div align="center"> <img src="https://raw.githubusercontent.com/EvandroLucax/EvandroLucax/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> </div>
-
-Para ativar a animação da cobra, será necessário configurar o workflow do Platane/snk no repositório de perfil.
 
 > SOCIAL_NETWORK
 <div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a> <a href="mailto:evandrolucascl@gmail.com"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/> </a> </div>
