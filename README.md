@@ -4,6 +4,7 @@
 
 <a href="https://github.com/EvandroLucax"> <img src="https://img.shields.io/github/followers/EvandroLucax?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050505" /> </a> <img src="https://komarev.com/ghpvc/?username=EvandroLucax&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" /> </div>
 > SYSTEM.IDENTITY
+<pre>
 FIELD	VALUE
 🟢 STATUS	ONLINE
 👨‍💻 ROLE	Software Developer / AI Enthusiast
@@ -11,7 +12,7 @@ FIELD	VALUE
 🧠 SPECIALIZATION	Development • Databases • Machine Learning
 📍 LOCATION	Brazil 🇧🇷
 ⚡ CURRENT MODE	LEARNING + BUILDING + RESEARCHING
-
+</pre>
 
 <div align="center">
 // ACCESS GRANTED
@@ -85,25 +86,24 @@ interests = {
 
 
 > PROJECTS
-<div style="width: 100%;">
 <pre>
-┌──[ USER@DEV-SYSTEM ]──[ ~/current_missions ]
-│
-├─ $ mission --list
-│
+[ USER@DEV-SYSTEM ]──[ ~/current_missions ]
+
+ $ mission --list
+
 ├─ [01] ████████████████████ Developing software
 ├─ [02] ██████████████████░░ Improving Python skills
 ├─ [03] ███████████████░░░░░ Deepening Machine Learning
 ├─ [04] █████████████░░░░░░░ Exploring Computer Vision
 ├─ [05] ████████████░░░░░░░░ Building full-stack projects
 ├─ [06] ██████████░░░░░░░░░░ Improving Software Engineering
-│
+
 ├─ $ status
-│
+
 └─ [✓] ALL SYSTEMS OPERATIONAL
     [→] KEEP BUILDING.
 </pre>
-</div>
+
 
 > GITHUB_ANALYTICS
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroLucax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroLucax&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=EvandroLucax&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/> </div>
@@ -113,8 +113,8 @@ interests = {
 > TROPHIES
 
 <pre>
-┌──[ ACHIEVEMENTS ]
-│
+[ ACHIEVEMENTS ]
+
 ├─ [✓] Python Development
 ├─ [✓] Machine Learning
 ├─ [✓] Computer Vision
@@ -122,13 +122,15 @@ interests = {
 ├─ [✓] Database Development
 ├─ [✓] Software Engineering
 ├─ [✓] Research & Experimentation
-│
-└─ [★] KEEP BUILDING
+
+[★] KEEP BUILDING
 </pre>
 
 > SOCIAL_NETWORK
 <div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a> <a href="mailto:evandrolucascl@gmail.com"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a0f1c,100:050505&height=120&section=footer"/>
+</div>
+<br></br>
 // SYSTEM SHUTDOWN
 > CONNECTION ESTABLISHED
 > KNOWLEDGE LOADED
