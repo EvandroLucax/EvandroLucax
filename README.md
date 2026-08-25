@@ -20,7 +20,7 @@ FIELD	VALUE
 
 </div>
 > ABOUT_ME
-<img align="right" width="340" src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://media.tenor.com/nN4erWoujAgAAAAj/toothless-cat-cat.gif)"/>
+<img align="right" width="340" src="https://media.tenor.com/nN4erWoujAgAAAAj/toothless-cat-cat.gif"/>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFMA e formado como Técnico em Informática pelo IFMA.
 Tenho interesse principalmente em desenvolvimento de software, Python, desenvolvimento web, bancos de dados e Inteligência Artificial.
