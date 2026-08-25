@@ -73,7 +73,7 @@ SYSTEM	TOOLS
 🏗️ ENGINEERING	Software Engineering • Version Control • Project Organization
 </div>
 > PROJECTS
-<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_01&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> <a href="https://github.com/SEU_USUARIO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_02&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> <br> <a href="https://github.com/SEU_USUARIO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_03&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> <a href="https://github.com/SEU_USUARIO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_04&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> </div>
+<div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvandroLucax&repo=Projetos_Python&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> 
 
 SYSTEM NOTE: Substitua PROJETO_01, PROJETO_02, etc. pelos nomes reais dos seus repositórios.
 
@@ -94,18 +94,18 @@ SYSTEM NOTE: Substitua PROJETO_01, PROJETO_02, etc. pelos nomes reais dos seus r
    > KEEP BUILDING.
 
 > GITHUB_ANALYTICS
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroLucax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroLucax&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=EvandroLucax&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/> </div>
 > ACTIVITY_GRAPH
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MATRIX" width="100%"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvandroLucax&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MATRIX" width="100%"/> </div>
 > TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="95%"/> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EvandroLucax&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="95%"/> </div>
 > CONTRIBUTION_MATRIX
-<div align="center"> <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/EvandroLucax/EvandroLucax/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> </div>
 
 Para ativar a animação da cobra, será necessário configurar o workflow do Platane/snk no repositório de perfil.
 
 > SOCIAL_NETWORK
-<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/> </a> </div>
+<div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a> <a href="mailto:evandrolucascl@gmail.com"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a0f1c,100:050505&height=120&section=footer"/>
 // SYSTEM SHUTDOWN
 > CONNECTION ESTABLISHED
