@@ -4,19 +4,20 @@
 
 <a href="https://github.com/EvandroLucax"> <img src="https://img.shields.io/github/followers/EvandroLucax?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050505" /> </a> <img src="https://komarev.com/ghpvc/?username=EvandroLucax&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" /> </div>
 > SYSTEM.IDENTITY
-╔══════════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE v2.0                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  STATUS        : ONLINE                                         ║
-║  ROLE          : Software Developer / AI Enthusiast             ║
-║  EDUCATION     : IFMA                                            ║
-║  SPECIALIZATION: Development • Databases • Machine Learning      ║
-║  LOCATION      : Brazil 🇧🇷                                     ║
-║                                                                  ║
-║  CURRENT MODE  : LEARNING + BUILDING + RESEARCHING              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER PROFILE v2.0                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS         : ONLINE                                    ║
+║  ROLE           : Software Developer / AI Enthusiast        ║
+║  EDUCATION      : IFMA                                      ║
+║  SPECIALIZATION : Development • Databases • Machine Learning║
+║  LOCATION       : Brazil 🇧🇷                                ║
+║                                                              ║
+║  CURRENT MODE   : LEARNING + BUILDING + RESEARCHING         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
 
 <div align="center">
 // ACCESS GRANTED
