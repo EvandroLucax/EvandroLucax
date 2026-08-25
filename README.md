@@ -82,7 +82,20 @@ interests = {
 </div>
 
 > PROJECTS
-<div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvandroLucax&repo=Projetos_Python&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> 
+<pre>
+┌──[ USER@DEV-SYSTEM ]──[ ~/projects ]
+│
+├─ $ projects --list
+│
+├─ [01] Projetos_Python
+│     ├─ Python Development
+│     ├─ Automation
+│     └─ Experiments & Applications
+│
+└─ $ status
+      PROJECTS IN DEVELOPMENT
+</pre>
+
 
 
 > PROJECTS
