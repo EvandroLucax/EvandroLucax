@@ -85,7 +85,7 @@ interests = {
 
 
 > PROJECTS
-
+<div style="width: 100%;">
 <pre>
 ┌──[ USER@DEV-SYSTEM ]──[ ~/current_missions ]
 │
@@ -103,7 +103,7 @@ interests = {
 └─ [✓] ALL SYSTEMS OPERATIONAL
     [→] KEEP BUILDING.
 </pre>
-
+</div>
 
 > GITHUB_ANALYTICS
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroLucax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroLucax&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=EvandroLucax&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/> </div>
