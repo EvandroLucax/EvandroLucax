@@ -84,30 +84,47 @@ interests = {
 <div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EvandroLucax&repo=Projetos_Python&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" /> </a> 
 
 
-> CURRENT_OBJECTIVES
+> PROJECTS
+
+<pre>
 ┌──[ USER@DEV-SYSTEM ]──[ ~/current_missions ]
 │
 ├─ $ mission --list
 │
-├─ [01] ████████████████████  Developing software
-├─ [02] ██████████████████░░  Improving Python skills
-├─ [03] ███████████████░░░░░  Deepening Machine Learning
-├─ [04] █████████████░░░░░░░  Exploring Computer Vision
-├─ [05] ████████████░░░░░░░░  Building full-stack projects
-├─ [06] ██████████░░░░░░░░░░  Improving Software Engineering
+├─ [01] ████████████████████ Developing software
+├─ [02] ██████████████████░░ Improving Python skills
+├─ [03] ███████████████░░░░░ Deepening Machine Learning
+├─ [04] █████████████░░░░░░░ Exploring Computer Vision
+├─ [05] ████████████░░░░░░░░ Building full-stack projects
+├─ [06] ██████████░░░░░░░░░░ Improving Software Engineering
 │
-└─ $ status
-   > ALL SYSTEMS OPERATIONAL
-   > KEEP BUILDING.
+├─ $ status
+│
+└─ [✓] ALL SYSTEMS OPERATIONAL
+    [→] KEEP BUILDING.
+</pre>
+
 
 > GITHUB_ANALYTICS
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroLucax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroLucax&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=EvandroLucax&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/> </div>
 > ACTIVITY_GRAPH
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvandroLucax&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MATRIX" width="100%"/> </div>
+
 > TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EvandroLucax&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="95%"/> </div>
-> CONTRIBUTION_MATRIX
-<div align="center"> <img src="https://raw.githubusercontent.com/EvandroLucax/EvandroLucax/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> </div>
+
+<pre>
+┌──[ ACHIEVEMENTS ]
+│
+├─ [✓] Python Development
+├─ [✓] Machine Learning
+├─ [✓] Computer Vision
+├─ [✓] Web Development
+├─ [✓] Database Development
+├─ [✓] Software Engineering
+├─ [✓] Research & Experimentation
+│
+└─ [★] KEEP BUILDING
+</pre>
 
 > SOCIAL_NETWORK
 <div align="center"> <a href="https://github.com/EvandroLucax"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a> <a href="mailto:evandrolucascl@gmail.com"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/> </a> </div>
